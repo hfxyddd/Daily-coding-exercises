@@ -1,4 +1,4 @@
-// https://leetcode.cn/problems/contains-duplicate-iii/description/
+// https://leetcode.cn/problems/maximum-average-subarray-i/description/
 //
 //
 
